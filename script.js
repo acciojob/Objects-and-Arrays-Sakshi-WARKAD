@@ -18,8 +18,8 @@ const team1 = {
 };
 
 const cap1 = {
-	name: "Bob",
-	age: 30
+	  name: "John Doe",
+      age: 80,
 };
 
 window.players = players;
